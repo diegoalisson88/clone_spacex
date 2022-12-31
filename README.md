@@ -1,1 +1,3 @@
-# clone_spacex
+# Clone do site da SpaceX
+
+Utilizando HTML, SASS E BOOTSTRAP.
